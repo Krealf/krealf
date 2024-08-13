@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/Krealf" target="_blank">Krealf</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">A 17-year-old programmer studying C++, Python, CS. A beginner in English and a SUAI student from Russia 🇷🇺</h3>
 
-<!--
-**Krealf/krealf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Мои навыки:
 
-Here are some ideas to get you started:
+> Языки программирования: Python [40%], C [5%], C++ [20%], JavaScript [30%], Golang [40%]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Фреймворки & Библиотеки: пока отсутствуют
+
+> Инструменты: Git, GitHub, VS Code, Visual Studio 2022, PyCharm
+
+> Другие навыки: пока отсутствуют
+
+### 💻 Мои проекты:
+
+* Трекер привычек: пока только на этапе идеи
+
+### 🌱 Я сейчас изучаю:
+
+* Язык C
+* Ассемблер
+* Сеть интернет
+* Архитектура ЦП
+
+### 📫 Как со мной связаться:
+
+* Email: krealf@mail.ru
+* Telegram: https://t.me/krealf
+
+---
+
