@@ -5,7 +5,7 @@
 ### 📫 Как со мной связаться:
 
 * Email: konstantin-uchaev@mail.ru
-* Telegram: https://t.me/krealf
+* Telegram: [https://t.me/krealf](https://t.me/k_uchaev)
 
 ---
 
